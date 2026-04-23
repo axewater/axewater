@@ -1,4 +1,4 @@
-# Hi, I'm Axe
+# Hi, I'm Allan.
 
 I build **multi-agent AI systems** and **full-stack web apps** — and when I'm off the clock, I reverse-engineer 40-year-old 8/16-bit games.
 
@@ -26,4 +26,3 @@ If you're building in AI agent systems, cybersecurity tooling, or retro game dev
 
 - Portfolio — <https://ajvanleeuwen.pleasewaitloading.com/>
 - LinkedIn — <https://www.linkedin.com/in/allan-van-leeuwen-90441653/>
-- Email — wateraxe@gmail.com
